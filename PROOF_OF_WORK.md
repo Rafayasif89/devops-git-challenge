@@ -4,8 +4,11 @@
 
 The following output is from `git log --oneline`:
 
-```text
-PASTE YOUR ACTUAL GIT LOG OUTPUT HERE
+98b2c92 Merge pull request #1 from Rafayasif89/development
+f435c56 fix: resolved merge conflict
+093701e fix: staging label
+2f92392 feat: updated script with staging env
+cd87a07 feat: initial commit with deploy script
 ```
 
 ## 2. Reflection Questions
