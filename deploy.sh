@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Deploying application to production"
+echo "Deploying application to development"
+echo "Development environment configured"
